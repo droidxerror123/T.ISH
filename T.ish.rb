@@ -1,3 +1,4 @@
+puts ("T.ISH")
 puts '++++++++++++++++++++++++++++++++++'
 puts '+  Author :./Droid_X_ISH         +'
 puts '+  WA.    :+6289606402413        +'
@@ -8,6 +9,8 @@ puts '2. All member               +    +'
 puts '3. Big Family&Brother ISH   +    +'
 puts '4. Syarat masuk             +    +'
 puts '5. Out Ya                   +    +'
+puts '+++++++++++++++++++++++++++++    +'
+puts '                                 +'
 puts '++++++++++++++++++++++++++++++++++'
 puts '>>>>>>>>>>>>>>>>>>>>>'
 puts '[Droid=>> '
