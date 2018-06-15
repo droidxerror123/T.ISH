@@ -12,12 +12,14 @@ puts 'Root@Droid=>  '
 a = gets.to_i
 puts '------------------'
 puts ("---Pengurus ISH---")
-puts ("Pakar Cinta : 
-Mencintai Seseorang Hal Yang Wajar, Tapi Bagaimana Dengan cinta bertepuk sebelah tangan ,itu yang saya pernah alami hehehe ")
+puts ("Pengurus: 
+-./Droid_X_ISH
+-Tn.Chaplin 
+-Kuro Cyber
 puts '-------------------'
  a = gets.to_i
-puts ("Pakar Hati : 
-Bila Kita Mencintai Setulus Hati ,Karna Cinta Yang Tulus Bakal Kalah Sama Yang Ngasih Uang Bulanan ,Bnr Ga ")
+puts ("All member ISH : 
+")
  a = gets.to_i
 puts '------------------'
 puts ("---Kenyamanan---")
