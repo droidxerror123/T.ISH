@@ -4,11 +4,12 @@ puts '+  Author :./Droid_X_ISH         +'
 puts '+  WA.    :+6289606402413        +'
 puts '+  Spesial ISH                   +'
 puts '+++++++++++++++++++++++++++++    +'
+puts '. Klik enter untuk melihat. + .  +'
 puts '1. pengurus ISH             +    +'
 puts '2. All member               +    +'
 puts '3. Big Family&Brother ISH   +    +'
 puts '4. Syarat masuk             +    +'
-puts '5. Out Ya                   +    +'
+puts '5. Crotz diluar             +    +'
 puts '+++++++++++++++++++++++++++++    +'
 puts '                                 +'
 puts '++++++++++++++++++++++++++++++++++'
@@ -77,7 +78,10 @@ puts ("Syarat :.
 -Menghormati Sesama Member
 -Kita Keluarga
 -Tidak Ada Kata Mastah/Noob
-Minat Chat Saya ")
+Minat Chat:
+https://api.whatsapp.com/send?phone=+62831-5472-9466&text=+Assalamualaikum+Abang+Tamvan+Saya+Mau+Join+Nih
+https://api.whatsapp.com/send?phone=+62831-5472-9466&text=+Assalamualaikum+Abang+Tamvan+Saya+Mau+Join+Nih
+")
  a = gets.to_i
 puts '_____________________'
 puts ("---CROTZ---")
